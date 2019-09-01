@@ -1,5 +1,5 @@
 # ComparisionOperators-Parts 1-4
-Some comparison operators exercise I did for Javascript course. So today, I learned about comparison operators, you use these to compare values. Some operators are: Less than: <, Greater than: >, Less than or equal to: <=, Greater than or equal to: >=, Is equal to: =, and Is not equal to: !==.  Comparison operators can also be used on different data types like strings. 
+Some comparison operators exercise I did for Javascript course for Codecademy. So today, I learned about comparison operators, you use these to compare values. Some operators are: Less than: <, Greater than: >, Less than or equal to: <=, Greater than or equal to: >=, Is equal to: =, and Is not equal to: !==.  Comparison operators can also be used on different data types like strings. 
 
 So, in these exercise, I played around with the condition by tweaking the comaprison of hungerLevel (variable) by using different operators such as: <=, >=, >, and <. First up, I use <=, then >=, >, and <.
 
