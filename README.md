@@ -1,4 +1,4 @@
-# ComparisionOperators-Parts
+# ComparisionOperators-Parts 1-4
 Some comparison operators exercise I did For Javascript course
 So today, I learned about comparison operators, you use these to compare values. Some operators are: Less than: <, Greater than: >, Less than or equal to: <=, Greater than or equal to: >=, Is equal to: =, and Is not equal to: !==.  Comparison operators can also be used on different data types like strings. 
 
